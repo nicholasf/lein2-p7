@@ -1,6 +1,6 @@
 require 'formula'
 
-#except for the version this formula is a carbon copy of the leiningen formula for 1.7.1
+#except for the differences relating to version this formula is a carbon copy of the leiningen formula for 1.7.1
 
 class Lein2P7 < Formula
   homepage 'http://github.com/technomancy/leiningen'
